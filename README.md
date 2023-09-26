@@ -4,7 +4,7 @@ In this project I talked about how to create a Linux virtual machine and install
 
 In this I have used -
 
-OS - Linux
-Virtualisation tool - virtualbox
-Automation tool - Vagrant
-Web server - Apache
+OS ->Linux,
+Virtualization tool -> VirtualBox,
+Automation tool -> Vagrant,
+Web server -> Apache
